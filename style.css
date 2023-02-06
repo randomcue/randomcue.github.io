@@ -1,0 +1,55 @@
+body {text-align: center; margin: 30px auto; font-size: 1.1em; font-family:Arial, Helvetica, sans-serif; line-height: ;}
+
+a:link {color: #666;text-decoration:none;}
+a:visited {color: #666; text-decoration:none;}
+a:hover {color: #006633; text-decoration: none;}
+/* a:hover, a:active {color: #fff; background: #006633; padding: 2px;} */
+#show a:link {color: #926663;text-decoration:none;}
+#show a:visited {color: #926663; text-decoration:none;}
+#show a:hover {color: #623633; text-decoration: none;}
+p {line-height: 1.4em;}
+
+h1 {font-size: 28px; line-height: 1.5em;}
+h1 a:link, h1 a:visited, h1 a:hover {color: gray; text-decoration:none;}
+h2 {font-size: 22px; line-height: 3.0em; margin-top: 1.5em;}
+h2.line {padding: 0 8px; background-color: #eec;}
+h3 {font-size: 18px; color: gray; margin-top: 1.5em;}
+h3.top {margin: -.5em 0 1.5em;}
+h3.line {padding: 4px 0; border-top: 1px dashed #663; border-bottom: 1px dashed #663; color: #993;}
+/* pre, code {font-size: 0.7em;} */
+pre, code {color: #333; font-size: 1.1em;}
+blockquote {background: #eee; padding: 2em; margin: 2em 0;}
+
+span.num {color: gray;}
+
+#container {margin: 0 auto; text-align: left; max-width: 600px; background: #fff; line-height: 1.8em;}
+header, footer {background: #f2f6f3; color: gray; margin-bottom: 1em;}
+footer {background: #e2e6e3}
+header {text-align: left; padding: 2px 8px; padding-bottom: 1.5em;}
+header.one {margin-bottom: 1.5em;}
+header td{vertical-align: middle; padding: 0; padding-top: 20px;}
+header h1{color: gray; font-size: 30px; margin: -0.8em auto; padding-left: 4px;}
+footer {text-align: right; padding: 4px 16px; margin-top: 8px;}
+
+
+ul {list-style-type: none; margin: 0; padding: 0; margin-bottom: 1.5em;}
+li {margin-left: 3.5em; text-indent: -3em; margin-bottom: 1em; line-height: 1.5em;}
+ol {margin: 0; padding: 0; margin-bottom: 1.5em;}
+ol li {margin-left: 1.5em; text-indent: 0;}
+/* ul, ol {margin: 0; padding: 0;}
+ul.hp {list-style-type: decimal-leading-zero;}
+ul.nobt {margin-bottom: 0;}
+li {margin-left: 2em; text-indent: .1em; margin-bottom: .5em;} */
+
+dl{line-height:23px; margin:30px 0 0 0;}
+dt{float:left; clear:both;}
+dd{float:left; text-indent:30px;}
+
+dl#log{height:190px; font-size:12px; margin:35px 0 0 20px; overflow:hidden; letter-spacing:1px;}
+dl#log dt{width:115px; line-height:29px; height:30px; margin:0 0 2px 0; color:#fff; float:left; clear:both; background:#9b3; text-align:center; font-size:11px; padding:0;}
+dl#log dt.sub{background:#3ad;}
+dl#log dd{line-height:29px; height:29px; float:left; text-indent:20px;}
+dl#log dd span{color:#c32; margin:0 20px 0 0;}
+
+
+
